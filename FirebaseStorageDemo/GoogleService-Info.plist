@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>405457637161-t3bjl4akrjt1siglqh5p5alu01ib7lms.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.405457637161-t3bjl4akrjt1siglqh5p5alu01ib7lms</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBFf8PZ6qTWlsmAMRGgcqtrW7y6aLXLzHM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>405457637161</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>shomikoron.com.FirebaseStorageDemo</string>
+	<key>PROJECT_ID</key>
+	<string>storagedemo-427fd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>storagedemo-427fd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:405457637161:ios:a60d96645202265a</string>
+	<key>DATABASE_URL</key>
+	<string>https://storagedemo-427fd.firebaseio.com</string>
+</dict>
+</plist>
